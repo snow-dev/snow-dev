@@ -1,8 +1,8 @@
 ### Hola mundo 👋
 
-Yo soy Snow Dev, solo otro de los muchos dev's que hay en este enorme mundo que es GitHub.
+Yo soy Snow Dev, solo otro de los muchos dev's que hay en GitHub.
 
-Se supone que use este Readme para contarles algo acerca de mi, bueno
+Se supone que use este _Readme.md_ para contarles algo acerca de mi, bueno
 hace algunos años salí de la universidad,
 solo sabia usar Python, un poco de C++ y Java, el típico *cliche* de egresado, 
 algo que sabía era que me encantaba desarrollar software, hice mis practicas profesionales en
@@ -27,16 +27,15 @@ conectar otra :sadface ), pero eso si mi habitación es oscura y mi
 terminal tiene la tipografía verde (es tan natural que hasta fui a
 revisar).
 
-Soy un fán de Python, pero debo decir que últimamente me he clavado a estudiar y dominar Go, me sigo actualizando con React y el mundo
-Javascript, sigo odiando C# y Java, pero aun así los conozco, más a C#
+Soy un fán de Python, pero debo decir que últimamente me he clavado a estudiar y dominar Go, 
+me sigo actualizando con React y el mundo Javascript, 
+sigo odiando C# y Java, pero aun así los conozco, más a C#
 aunque lo deteste, React me da de comer, no es por presumir, pero puedo
-hacer casi lo que sea sin googlear
-(seguimos hablando de React), en general me súper encanta picar código,
-aunque mi GitHub esta algo desatendido, y no hay mucha constancia, pero
-espero que esta
-etapa de confinamiento me sirva para aprender y poner en verde todo el
-mosaico de contribuciones, en fin la codificación, esperes mucho
-Golang, JavaScript.
+hacer casi lo que sea sin googlear (seguimos hablando de React), 
+en general me súper encanta picar código, aunque mi GitHub esta algo desatendido, 
+y no hay mucha constancia, pero espero que esta etapa de confinamiento 
+me sirva para aprender y poner en verde todo el mosaico de contribuciones, 
+en fin la codificación, esperen mucho Golang, JavaScript y demas cosas fumadas.
 
 ⚡ Esperenme, pronto seré un Rockstar developer ⚡
 
