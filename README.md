@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-dev" alt="snow-dev" /></a> </p>
 
-- 🔭 I’m currently working on [P-Card](https://p-card.com/)
+- 🔭 I’m currently working on [Perfekto](https://www.perfekto.mx)
 
 - 🌱 I’m currently learning **NestJS, Go, Flutter and TypeScript**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React, Go and Python**
+- 💬 Ask me about **React, Go and NestJS**
 
 - 📫 How to reach me **dev.carlos.avila@gmail.com**
 
