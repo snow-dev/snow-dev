@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Ávila (Snow Dev)</h1>
 <h3 align="center">I'm a software developer and maker.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snow-dev&label=Profile%20views&color=0e75b6&style=flat" alt="snow-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-dev" alt="snow-dev" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=snow-dev&theme=onedark)](https://github.com/snow-dev/github-profile-trophy)
 
 - 🔭 I’m currently working on [Imbera](https://www.imberacooling.com/)
 
