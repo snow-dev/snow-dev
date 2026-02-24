@@ -1,60 +1,75 @@
 <h1 align="center">Hi 👋, I'm Carlos Ávila (snow)</h1>
-<h3 align="center">Senior Software Engineer | Deep Learning Researcher | Arch Linux Enthusiast</h3>
+<h3 align="center">Senior Software Engineer | Deep Learning Researcher | Stoic Maker</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snow-dev&theme=onedark&column=4&margin-w=15" alt="trophy" />
+  <img src="https://img.shields.io/github/stars/snow-dev?style=for-the-badge&logo=github&color=24292e" alt="stars" />
+  <img src="https://img.shields.io/github/followers/snow-dev?style=for-the-badge&logo=github&color=24292e" alt="followers" />
 </p>
 
----
-
-### 👨‍💻 Professional Profile
-
-Senior Engineer focused on high-scalability systems and AI. I specialize in **Hexagonal Architecture** and strict type safety. Currently balancing enterprise-grade backend development with academic research in **Deep Learning**.
-
-- 🚀 **Currently:** Scaling Personal Finance & Architecting SAP integrations.
-- 🎓 **Research:** Deep Learning for industrial text classification (Newsgroup20) & cattle fattening optimization.
-- 🛠️ **Philosophy:** Stoicism applied to engineering. "The obstacle is the way."
-- 🐧 **Environment:** Arch Linux & Gentoo (I use Arch, btw).
+- 🔬 **AI Research:** Actualmente enfocado en **Deep Learning** para clasificación de texto industrial y optimización de procesos (engorda de ganado).
+- 🛠️ **Dev Stack:** Especialista en **Go, NestJS (Hexagonal)** y **TypeScript Estricto**.
+- 🐧 **SysAdmin:** Usuario de **Arch Linux** y **Gentoo**. Automatizo mi vida con **Ansible** y **Makefiles**.
+- 📚 **Interests:** Practicante de **Estoicismo** y entusiasta del universo de **Warhammer 40k**.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 📖 The Chronicler's Path (Beyond the Code)
 
-| **Area** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/-RTK--Query-764ABC?logo=redux&logoColor=white) ![Emotion](https://img.shields.io/badge/-Emotion-DB7093?logo=styled-components&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0808?logo=typeorm&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongodb&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Make](https://img.shields.io/badge/-Makefiles-000000?logo=gnu&logoColor=white) |
-| **Tools** | ![Arch](https://img.shields.io/badge/-Arch--Linux-1793D1?logo=arch-linux&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+Se supone que este espacio es para contarles quién soy. Mi camino no es solo picar código; es una búsqueda constante de estructura. Empecé en un centro de investigación con AI, pasé por el desarrollo de software industrial en **Imbera** y hoy divido mi tiempo entre la ingeniería de software de alto nivel y la investigación académica en **Deep Learning**.
+
+Como escritor y maker, veo el software como una extensión del pensamiento. Me obsesiona el **Clean Code**, la **Arquitectura Hexagonal** y los sistemas que, como una buena pieza de literatura, son coherentes y duraderos. Mi hábitat es la terminal verde, la habitación oscura y el silencio necesario para resolver problemas complejos.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🧠 Intelligence & Research (IA/ML)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snow-dev&show_icons=true&theme=onedark&layout=compact&hide_border=true" alt="Top Langs" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=snow-dev&show_icons=true&theme=onedark&count_private=true&hide_border=true" alt="Stats" height="150px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-dev&theme=onedark&hide_border=true" alt="Streak" />
-</p>
-
----
-
-### 💬 Let's Connect
+No es solo un hobby, es mi especialidad académica. Trabajo con modelos de **Deep Learning** aplicados a problemas del mundo real:
+* **NLP:** Clasificación de texto industrial.
+* **Computer Vision / Optimization:** Optimización de procesos productivos.
+* **Stack:** Python, TensorFlow, Keras, Pandas.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-ar/" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
+</p>
+
+---
+
+### 🛠️ Software Engineering & Infrastructure
+
+Cuando no estoy entrenando modelos, diseño sistemas robustos y automatizo entornos Linux.
+
+<p align="left"> 
+  <a href="https://golang.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" height="45" alt="go"/> </a> 
+  <a href="https://nestjs.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="nestjs"/> </a> 
+  <a href="https://www.typescriptlang.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="typescript"/> </a> 
+  <a href="https://reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="react"/> </a> 
+  <a href="https://www.linux.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="arch"/> </a> 
+  <a href="https://www.docker.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="docker"/> </a> 
+  <a href="https://www.ansible.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45" height="45" alt="ansible"/> </a>
+</p>
+
+---
+
+### 🏛️ Philosophy & Lore
+
+* **Stoicism:** "The impediment to action advances action. What stands in the way becomes the way." – Marcus Aurelius.
+* **Warhammer 40k:** Estrategia, narrativa y la oscuridad del cuadragésimo primer milenio.
+* **Genealogy:** Construyendo motores de visualización para reconstruir la historia familiar.
+
+---
+
+### 💬 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/carlos-ar/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev.carlos.avila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/@hackerazteca" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
-> *"Waste no more time arguing what a good man should be. Be one."* – Marcus Aurelius.
+<p align="center">⚡ <b>Soon to be a Rockstar Developer (and a Deep Learning Expert)</b> ⚡</p>
