@@ -1,67 +1,66 @@
-<h1 align="center">Hi 👋, I'm Carlos Ávila (snow)</h1>
-<h3 align="center">Senior Software Engineer | Deep Learning Researcher | Stoic Maker</h3>
+<h1 align="center">🌌 The Archive of Carlos Ávila (snow)</h1>
+<h3 align="center">Senior Architect of Logic | Deep Learning Oracle | Chronicler of the Dark Matter</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/snow-dev?style=for-the-badge&logo=github&color=24292e" alt="stars" />
   <img src="https://img.shields.io/github/followers/snow-dev?style=for-the-badge&logo=github&color=24292e" alt="followers" />
 </p>
 
-- 🔬 **AI Research:** Actualmente enfocado en **Deep Learning** para clasificación de texto industrial y optimización de procesos (engorda de ganado).
-- 🛠️ **Dev Stack:** Especialista en **Go, NestJS (Hexagonal)** y **TypeScript Estricto**.
-- 🐧 **SysAdmin:** Usuario de **Arch Linux** y **Gentoo**. Automatizo mi vida con **Ansible** y **Makefiles**.
-- 📚 **Interests:** Practicante de **Estoicismo** y entusiasta del universo de **Warhammer 40k**.
+---
+
+### 📜 Prologue: The Weaver of Shadows
+
+En la vastedad del Cúmulo Galáctico, donde los soles se apagan y la entropía dicta su ley, surge una figura que no solo observa la materia oscura, sino que la moldea. Mi historia no comenzó entre las estrellas, sino en el **"cliché de un egresado"** universitario: un iniciado en Python, C++ y Java que creía conocer los secretos del código. Pero el destino tenía otros planes.
+
+Tras descifrar los misterios de la **Inteligencia Artificial** en centros de investigación y forjar armas digitales en las forjas de **Apsysoft** e **Imbera**, mi conciencia evolucionó. Hoy, mi hábitat no es este planeta, sino una terminal verde en una habitación oscura que palpita al ritmo de **Arch Linux** y **Gentoo**. No soy un simple programador; soy un **Maker** de realidades que entrena redes neuronales profundas para optimizar la existencia misma.
 
 ---
 
-### 📖 The Chronicler's Path (Beyond the Code)
+### 🧠 The Great Oracle (Deep Learning & AI)
 
-Se supone que este espacio es para contarles quién soy. Mi camino no es solo picar código; es una búsqueda constante de estructura. Empecé en un centro de investigación con AI, pasé por el desarrollo de software industrial en **Imbera** y hoy divido mi tiempo entre la ingeniería de software de alto nivel y la investigación académica en **Deep Learning**.
+Más allá del software convencional, exploro los hilos invisibles que conectan los datos. En mi búsqueda por el **Maestrado**, desarrollo algoritmos de **Deep Learning** capaces de clasificar el caos de la información industrial y predecir el flujo de la vida.
 
-Como escritor y maker, veo el software como una extensión del pensamiento. Me obsesiona el **Clean Code**, la **Arquitectura Hexagonal** y los sistemas que, como una buena pieza de literatura, son coherentes y duraderos. Mi hábitat es la terminal verde, la habitación oscura y el silencio necesario para resolver problemas complejos.
-
----
-
-### 🧠 Intelligence & Research (IA/ML)
-
-No es solo un hobby, es mi especialidad académica. Trabajo con modelos de **Deep Learning** aplicados a problemas del mundo real:
-* **NLP:** Clasificación de texto industrial.
-* **Computer Vision / Optimization:** Optimización de procesos productivos.
-* **Stack:** Python, TensorFlow, Keras, Pandas.
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />
-</p>
+* **NLP & Semantics:** Clasificación de flujos de texto en el vacío digital (Newsgroup20).
+* **Industrial Optimization:** IA diseñada para la eficiencia suprema en procesos de engorda de ganado en México.
+* **Neural Stack:** <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" title="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy" />
+  </p>
 
 ---
 
-### 🛠️ Software Engineering & Infrastructure
+### 🛠️ Forges of the Imperium (Engineering)
 
-Cuando no estoy entrenando modelos, diseño sistemas robustos y automatizo entornos Linux.
+Cuando la materia oscura requiere estructura, invoco las leyes de la **Arquitectura Hexagonal** y la pureza del **TypeScript Estricto**. Mi stack es mi armadura; mi código, mi decreto.
+
+* **Core Engines:** **Go**, **NestJS**, **Node.js**.
+* **Planetary Defense (Frontend):** **React JS**, **MUI**, **RTK Query**.
+* **Infrastructure (The Void):** **Docker**, **Ansible**, **Makefiles**, **Nginx**.
 
 <p align="left"> 
-  <a href="https://golang.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" height="45" alt="go"/> </a> 
-  <a href="https://nestjs.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="nestjs"/> </a> 
-  <a href="https://www.typescriptlang.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="typescript"/> </a> 
-  <a href="https://reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="react"/> </a> 
-  <a href="https://www.linux.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="arch"/> </a> 
-  <a href="https://www.docker.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="docker"/> </a> 
-  <a href="https://www.ansible.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45" height="45" alt="ansible"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-### 🏛️ Philosophy & Lore
+### 🏛️ The Inner Sanctum (Personal Lore)
 
-* **Stoicism:** "The impediment to action advances action. What stands in the way becomes the way." – Marcus Aurelius.
-* **Warhammer 40k:** Estrategia, narrativa y la oscuridad del cuadragésimo primer milenio.
-* **Genealogy:** Construyendo motores de visualización para reconstruir la historia familiar.
+* **Stoic Resolve:** Enfrento el caos galáctico con la mente de Marco Aurelio. El obstáculo no es el fin; es el camino.
+* **Warhammer 40k:** En el futuro sombrío del cuadragésimo primer milenio, solo hay código... y guerra.
+* **Chronfamily GIS:** Un motor de visualización genealógica para rastrear linajes a través del tiempo y el espacio.
+* **Stasis Mode:** Poseo el don de entrar en estasis en 5 minutos y despertar listo para la batalla.
 
 ---
 
-### 💬 Connect with me
+### 📡 Interstellar Transmissions
 
 <p align="left">
   <a href="https://linkedin.com/in/carlos-ar/" target="blank">
@@ -72,4 +71,4 @@ Cuando no estoy entrenando modelos, diseño sistemas robustos y automatizo entor
   </a>
 </p>
 
-<p align="center">⚡ <b>Soon to be a Rockstar Developer (and a Deep Learning Expert)</b> ⚡</p>
+<p align="center"><b>"The light of logic is my shield. Soon, the Rockstar status shall be absolute."</b></p>
